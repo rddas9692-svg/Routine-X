@@ -3,11 +3,7 @@ export const EMOJIS = ['💪','📚','💻','😴','🏃','🧘','🥗','💧','
 export const COLORS = ['#f5c518', '#ffffff', '#aaaaaa', '#555555']
 
 export function seedHabits() {
-  return [
-    { id: '1', name: 'Morning Workout', emoji: '💪', color: '#f5c518', createdAt: '2026-06-01' },
-    { id: '2', name: 'Read 30 min',     emoji: '📚', color: '#ffffff', createdAt: '2026-06-01' },
-    { id: '3', name: 'Code Practice',   emoji: '💻', color: '#aaaaaa', createdAt: '2026-06-01' },
-  ]
+  return []
 }
 
 export function seedRecords(habits) {
