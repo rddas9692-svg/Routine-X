@@ -50,7 +50,7 @@ function TodayPage({
       <div className="today-header">
         <div className="today-header-left">
           <img
-            src="/logo2.jpeg"
+            src="/logo3.jpeg"
             alt="Routine X"
             width="50"
             style={{ marginBottom: "10px" }}
